@@ -1,5 +1,6 @@
 {
   "name": "app",
+  "homepage": "https://geraud01.github.io/style-guide/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
